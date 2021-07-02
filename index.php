@@ -4,6 +4,7 @@
  * @Name Innocent Sizwe Langa
  * @Type PHP
  * @Description Controller page used for routing
+ * @Change inside the file
  */
 
 // Activate session
