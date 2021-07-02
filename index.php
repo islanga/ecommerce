@@ -1,4 +1,10 @@
 <?php
+/*
+ * @Date 2021/07/02
+ * @Name Innocent Sizwe Langa
+ * @Type PHP
+ */
+
 // Activate session
 session_start();
 
