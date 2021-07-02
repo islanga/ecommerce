@@ -3,6 +3,7 @@
  * @Date 2021/07/02
  * @Name Innocent Sizwe Langa
  * @Type PHP
+ * @Description Used to handle errors
  */
 
 // Set the 404 status code
