@@ -1,4 +1,10 @@
 <?php
+/*
+ * @Date 2021/07/02
+ * @Name Innocent Sizwe Langa
+ * @Type PHP
+ */
+
 // Set the 404 status code
 header('HTTP/1.0 404 Not Found');
 
