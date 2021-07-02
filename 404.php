@@ -4,7 +4,6 @@
  * @Name Innocent Sizwe Langa
  * @Type PHP
  * @Description Used to handle errors
- * @Change inside the file
  */
 
 // Set the 404 status code
