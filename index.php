@@ -3,6 +3,7 @@
  * @Date 2021/07/02
  * @Name Innocent Sizwe Langa
  * @Type PHP
+ * @Description Controller page used for routing
  */
 
 // Activate session
